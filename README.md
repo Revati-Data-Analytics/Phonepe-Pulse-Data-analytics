@@ -83,3 +83,8 @@ The dashboard helps identify:
 
 ## Project Outcome
 This project demonstrates practical skills in data cleaning, data modelling, DAX calculations, interactive dashboard development, and business data analysis using Power BI.
+## Project Demo Video
+
+Watch my complete PhonePe Pulse Power BI dashboard walkthrough:
+
+[▶ Watch Project Demonstration](https://youtu.be/vkdKIlGzOuM)
