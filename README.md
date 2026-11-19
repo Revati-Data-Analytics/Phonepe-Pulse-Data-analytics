@@ -35,7 +35,7 @@ The following activities were performed:
 ## Dashboard Pages
 
 ### Page 1 – Transaction Analysis
-[Page 1 – Transaction Analysis](Screenshot-Page1.png)
+![Page 1 – Transaction Analysis](Screenshot%202026-11-17%20125029.png)
 - Total transactions.
 - Total transaction amount.
 - State-wise transaction analysis.
