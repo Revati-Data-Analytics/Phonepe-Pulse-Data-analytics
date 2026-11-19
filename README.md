@@ -43,14 +43,14 @@ The following activities were performed:
 - Year and quarter analysis.
 
 ### Page 2 – Transaction Growth Analysis
-[Page 2 – Transaction Growth Analysis](Screenshot%202026-11-19%20151305.png)
+![Page 2 – Transaction Growth Analysis](Screenshot%202026-11-19%20151305.png)
 - Year-over-year transaction growth.
 - Average transaction value.
 - Year-wise growth trends.
 - Transaction performance comparison.
 
 ### Page 3 – Registered User Analysis
-[Page 3 – Registered User Analysis](Screenshot%202026-11-17%20140726.png)
+![Page 3 – Registered User Analysis](Screenshot%202026-11-17%20140726.png)
 - Total registered users.
 - State-wise registered users.
 - Top 10 states and districts.
@@ -58,7 +58,7 @@ The following activities were performed:
 - Year-wise registered user growth.
 
 ### Page 4 – Geographical Analysis
-[Page 4 – Geographical Analysis](Screenshot%202026-11-17%20143016.png)
+![Page 4 – Geographical Analysis](Screenshot%202026-11-17%20143016.png)
 - Geographical distribution of transactions across Indian states.
 - State-wise transaction performance.
 - Regional comparison and analysis.
